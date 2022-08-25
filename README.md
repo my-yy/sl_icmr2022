@@ -15,9 +15,8 @@ wandb==0.12.10
 
 ## Dataset
 
-1. Download all files from [Baidu Disk](https://pan.baidu.com/s/1024BMz5fslbQXJ-7iFKXMA) (code:`3d38`) .
-2. Unzip `dataset.zip` to the project root.
-3. Put `face_input.pkl` and `voice_input.pk` into `dataset/voxceleb/` folder. The  final structure of `dataset` folder is shown below:
+Download file from [Baidu Disk](https://pan.baidu.com/s/1yCvVOytilWYHdG4dHYHnEw) (code:`9d0a`) or [GoogleDrive](https://drive.google.com/file/d/1NZLfYrvqoa7XGJxITYE0v0SRYN-m33hv/view?usp=sharing) and unzip it to the project root. 
+The `dataset` folder structure is shown below:
 
 ```
 dataset/
