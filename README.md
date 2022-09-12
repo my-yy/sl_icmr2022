@@ -77,7 +77,7 @@ dataset/
 
 ## Model Checkpoints 
 
-You can get the final model checkoints at [here](https://pan.baidu.com/s/1Ol0FtaXUm8BticDDNLJaxg) (code:`4ae6`).
+You can get the final model checkpoints at [here](https://pan.baidu.com/s/1Ol0FtaXUm8BticDDNLJaxg) (code:`4ae6`).
 
 
 
