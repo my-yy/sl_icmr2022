@@ -81,3 +81,11 @@ You can get the final model checkpoints at [here](https://pan.baidu.com/s/1Ol0Ft
 
 
 
+## Backbone Models
+
+The Inception-V1 model is based on [facenet_pytorch](https://github.com/timesler/facenet-pytorch).
+
+The ECAPA-TDNN model is based on [SpeechBrain](https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb). While this model is trained with Vox1+Vox2, thus we retrained one only with Vox2. The checkpoint can be found [here](https://pan.baidu.com/s/18vDu8_XxxuplW-k6i4xHZQ?pwd=fdra).
+
+We also offer demo scripts for extracting the embeddings in `scripts/`.
+
