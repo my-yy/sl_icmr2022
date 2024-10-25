@@ -77,7 +77,7 @@ dataset/
 
 ## Model Checkpoints 
 
-You can get the final model checkpoints at [baidu pan](https://pan.baidu.com/s/1Ol0FtaXUm8BticDDNLJaxg) (code:`4ae6`) or [google-drive](https://drive.google.com/file/d/1SynmHLSva8mkaVlDlSQnMVqIOLSYy36d/view?usp=sharing).
+You can get the final model checkpoints at [here](https://pan.baidu.com/s/1Ol0FtaXUm8BticDDNLJaxg) (code:`4ae6`) 
 
 
 
@@ -85,7 +85,10 @@ You can get the final model checkpoints at [baidu pan](https://pan.baidu.com/s/1
 
 The Inception-V1 model is based on [facenet_pytorch](https://github.com/timesler/facenet-pytorch).
 
-The ECAPA-TDNN model is based on [SpeechBrain](https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb). While this model is trained with Vox1+Vox2, thus we retrained one only with Vox2. The checkpoint can be found [here](https://pan.baidu.com/s/18vDu8_XxxuplW-k6i4xHZQ?pwd=fdra).
+The ECAPA-TDNN model is based on [SpeechBrain](https://huggingface.co/speechbrain/spkrec-ecapa-voxceleb). 
+While this model is trained with Vox1+Vox2, 
+thus we retrained one only with Vox2. 
+The checkpoint can be found at [baidu disk](https://pan.baidu.com/s/18vDu8_XxxuplW-k6i4xHZQ?pwd=fdra) or [google-drive](https://drive.google.com/file/d/1SynmHLSva8mkaVlDlSQnMVqIOLSYy36d/view?usp=sharing).
 
 We also offer demo scripts for extracting the embeddings in `scripts/`.
 
